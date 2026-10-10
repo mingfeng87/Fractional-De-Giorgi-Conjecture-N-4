@@ -1,4 +1,4 @@
-# Fractional De Giorgi Conjecture in Dimension Four
+# Fractional De Giorgi Conjecture
 
 This repository contains two AI-assisted research manuscripts on one-dimensional symmetry for the fractional Allen–Cahn equation in dimension four, covering the ranges $0<s<1/2$ and $1/2<s<1$.
 
