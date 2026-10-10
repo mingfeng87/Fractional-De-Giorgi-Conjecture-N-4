@@ -2,7 +2,7 @@
 
 This repository contains two AI-assisted research manuscripts on one-dimensional symmetry for the fractional Allen–Cahn equation in dimension four, covering the ranges $0<s<1/2$ and $1/2<s<1$.
 
-**Draft status:** Both manuscripts present candidate proofs and state that the team is continuing to verify all proofs. The summaries below describe the statements and arguments in the current drafts.
+**Draft status:** Both manuscripts present candidate proofs and state that our team is continuing to verify all proofs. The summaries below describe the statements and arguments in the current drafts.
 
 ## Manuscripts
 
